@@ -1,0 +1,3240 @@
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.025068771617508357
+EPMA: 2.5068771617508356
+EP: 0.1583312086024368
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.02482498585726596
+EPMA: 2.4824985857265958
+EP: 0.15755946768527102
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.024682720070884026
+EPMA: 2.4682720070884026
+EP: 0.15710735205866092
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.02529590993167762
+EPMA: 2.529590993167762
+EP: 0.15904687966658643
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.023990431453212516
+EPMA: 2.3990431453212517
+EP: 0.15488844841760316
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.02532800813320969
+EPMA: 2.532800813320969
+EP: 0.15914775566500988
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.023308856509490723
+EPMA: 2.3308856509490723
+EP: 0.1526723829298892
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.025070932403186006
+EPMA: 2.5070932403186004
+EP: 0.15833803208069122
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.023757620366916893
+EPMA: 2.375762036691689
+EP: 0.15413507182635913
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.024045429118082766
+EPMA: 2.4045429118082766
+EP: 0.15506588637763874
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.01693284912115665
+EPMA: 1.6932849121156648
+EP: 0.1301262814390569
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.016854016988105323
+EPMA: 1.6854016988105323
+EP: 0.12982302179546323
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.0172826987358551
+EPMA: 1.7282698735855102
+EP: 0.13146367839009793
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.01610919326681257
+EPMA: 1.6109193266812567
+EP: 0.12692199678074945
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.01754025643803989
+EPMA: 1.754025643803989
+EP: 0.13243963318448104
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.016882284512503218
+EPMA: 1.6882284512503216
+EP: 0.12993184564418078
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.01723511409033352
+EPMA: 1.723511409033352
+EP: 0.1312825734449684
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.01612138840282504
+EPMA: 1.6121388402825043
+EP: 0.12697002954565711
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.016741271490516463
+EPMA: 1.6741271490516463
+EP: 0.1293880654871865
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.016404821912528393
+EPMA: 1.6404821912528391
+EP: 0.1280813097705063
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.012844986984828225
+EPMA: 1.2844986984828226
+EP: 0.11333572686857496
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.013434604401075028
+EPMA: 1.3434604401075028
+EP: 0.11590774090230138
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.01275864595208577
+EPMA: 1.275864595208577
+EP: 0.11295417633751206
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.013132829910897505
+EPMA: 1.3132829910897506
+EP: 0.11459855981162026
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.013698926887503637
+EPMA: 1.3698926887503637
+EP: 0.11704241490803083
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.012960253772725737
+EPMA: 1.2960253772725736
+EP: 0.1138431103436907
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.012936459603461474
+EPMA: 1.2936459603461476
+EP: 0.1137385581210764
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.0140941756853873
+EPMA: 1.40941756853873
+EP: 0.11871889354853042
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.014141853983939648
+EPMA: 1.4141853983939647
+EP: 0.11891952734492199
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.013061090608807571
+EPMA: 1.306109060880757
+EP: 0.11428512855488929
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.014630932602686707
+EPMA: 1.4630932602686708
+EP: 0.12095839203084136
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.014450850247094148
+EPMA: 1.445085024709415
+EP: 0.12021168931137333
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.014211920108491517
+EPMA: 1.4211920108491518
+EP: 0.11921375805036731
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.014283913553528942
+EPMA: 1.4283913553528942
+EP: 0.11951532769284842
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.014436276976314086
+EPMA: 1.4436276976314086
+EP: 0.12015105898956566
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.014391781183677243
+EPMA: 1.4391781183677244
+EP: 0.11996575004424072
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.014747617216238275
+EPMA: 1.4747617216238273
+EP: 0.12143976785319657
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.0144479812981021
+EPMA: 1.44479812981021
+EP: 0.1201997558154845
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.014676646868708123
+EPMA: 1.4676646868708123
+EP: 0.12114721155977187
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.015113985354837989
+EPMA: 1.5113985354837989
+EP: 0.12293894970609595
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.009931009339248696
+EPMA: 0.9931009339248696
+EP: 0.09965444967109445
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.010170846428332724
+EPMA: 1.0170846428332725
+EP: 0.10085061441722963
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.010120604712604307
+EPMA: 1.0120604712604306
+EP: 0.10060121625807666
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.009926665763935841
+EPMA: 0.9926665763935841
+EP: 0.09963265410464503
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.009783739819814275
+EPMA: 0.9783739819814274
+EP: 0.09891278895984217
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.010028059449747662
+EPMA: 1.0028059449747662
+EP: 0.10014019896998239
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.009997277771746728
+EPMA: 0.9997277771746726
+EP: 0.0999863879322917
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.010110304020281378
+EPMA: 1.0110304020281378
+EP: 0.10055000755982756
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.010041435324072274
+EPMA: 1.0041435324072274
+EP: 0.10020696245307645
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.010199819335150608
+EPMA: 1.0199819335150608
+EP: 0.10099415495537654
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.008505345822733197
+EPMA: 0.8505345822733197
+EP: 0.09222443181030283
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.008094115984311272
+EPMA: 0.8094115984311271
+EP: 0.08996730508529903
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.008246438519129493
+EPMA: 0.8246438519129493
+EP: 0.0908099031996483
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.008116911710453067
+EPMA: 0.8116911710453066
+EP: 0.09009390495728924
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.008068102436959695
+EPMA: 0.8068102436959695
+EP: 0.08982261651143154
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.007998407935008627
+EPMA: 0.7998407935008626
+EP: 0.08943381874329547
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.008140807896763554
+EPMA: 0.8140807896763554
+EP: 0.09022642571200276
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.00820364273945719
+EPMA: 0.8203642739457191
+EP: 0.09057396281193172
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.008203503016822322
+EPMA: 0.8203503016822322
+EP: 0.09057319149076244
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.008101999757352624
+EPMA: 0.8101999757352625
+EP: 0.09001110907745012
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.010537784301182612
+EPMA: 1.0537784301182611
+EP: 0.10265371060601079
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.01047418871731077
+EPMA: 1.047418871731077
+EP: 0.10234348400025656
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.009621206100108842
+EPMA: 0.9621206100108841
+EP: 0.09808774694175028
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.010545783530977135
+EPMA: 1.0545783530977135
+EP: 0.10269266541957675
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.013422750421782946
+EPMA: 1.3422750421782945
+EP: 0.1158565942093196
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.010385290063956398
+EPMA: 1.0385290063956398
+EP: 0.10190824335624865
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.9929447935709815
+EPMA: 99.29447935709815
+EP: 0.996466152747288
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.012974165731028126
+EPMA: 1.2974165731028127
+EP: 0.11390419540573615
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.037452987627022566
+EPMA: 3.7452987627022565
+EP: 0.19352774381732085
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.0109851316149619
+EPMA: 1.0985131614961898
+EP: 0.10480997860395688
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.007356294093233814
+EPMA: 0.7356294093233814
+EP: 0.08576884103935306
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.0072609120918280074
+EPMA: 0.7260912091828008
+EP: 0.0852109857461349
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.008522917900230782
+EPMA: 0.8522917900230783
+EP: 0.09231965067216612
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.006882167109567435
+EPMA: 0.6882167109567435
+EP: 0.08295882779769392
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.006713672258841647
+EPMA: 0.6713672258841646
+EP: 0.08193700176868597
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.00705813089004551
+EPMA: 0.705813089004551
+EP: 0.08401268291184082
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.0075329461979598816
+EPMA: 0.7532946197959881
+EP: 0.0867925469032905
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.008066264753747922
+EPMA: 0.8066264753747922
+EP: 0.08981238641606135
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.007022428046793754
+EPMA: 0.7022428046793754
+EP: 0.08379992868012331
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.007188733535887569
+EPMA: 0.7188733535887568
+EP: 0.08478639947472454
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.00550950648823804
+EPMA: 0.5509506488238041
+EP: 0.07422604993018314
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.005396300198196999
+EPMA: 0.5396300198196998
+EP: 0.07345951400735645
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.005473388598609119
+EPMA: 0.5473388598609118
+EP: 0.0739823532919109
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.005677124160807078
+EPMA: 0.5677124160807079
+EP: 0.0753466930980191
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.005380181366968338
+EPMA: 0.5380181366968338
+EP: 0.0733497196107002
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.005622781730671253
+EPMA: 0.5622781730671252
+EP: 0.07498521007953003
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.005564296922968382
+EPMA: 0.5564296922968381
+EP: 0.07459421507709818
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.005488328452242521
+EPMA: 0.548832845224252
+EP: 0.0740832535209039
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.00549459827046186
+EPMA: 0.549459827046186
+EP: 0.07412555747150816
+
+3
+Taxa de aprendizagem: 0.1
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.005799372039342729
+EPMA: 0.579937203934273
+EP: 0.07615360818334696
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.08595157605051121
+EPMA: 8.59515760505112
+EP: 0.29317499219836474
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.09160169005650422
+EPMA: 9.160169005650422
+EP: 0.3026577110474871
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.08758737208150687
+EPMA: 8.758737208150686
+EP: 0.29595163807876934
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.09157484963242614
+EPMA: 9.157484963242613
+EP: 0.3026133665792477
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.08834439539210578
+EPMA: 8.834439539210578
+EP: 0.2972278509697666
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.08793474787892996
+EPMA: 8.793474787892997
+EP: 0.2965379366606066
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.0868570267333075
+EPMA: 8.68570267333075
+EP: 0.29471516203498505
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.08826585492396138
+EPMA: 8.82658549239614
+EP: 0.2970956999418897
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.09129586130748854
+EPMA: 9.129586130748853
+EP: 0.3021520499806158
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.08789842896848929
+EPMA: 8.78984289684893
+EP: 0.2964766921167485
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.06142039467188053
+EPMA: 6.142039467188053
+EP: 0.24783138354913917
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.061250153448207854
+EPMA: 6.125015344820786
+EP: 0.24748768342729272
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.060268310598605525
+EPMA: 6.026831059860553
+EP: 0.24549605006721703
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.05770944019969599
+EPMA: 5.7709440199695985
+EP: 0.24022789221840163
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.06157765063351148
+EPMA: 6.157765063351148
+EP: 0.24814844475336023
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.06043836738753013
+EPMA: 6.043836738753013
+EP: 0.24584215949981023
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.059678096264201286
+EPMA: 5.967809626420129
+EP: 0.24429100733387893
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.060735746109209676
+EPMA: 6.073574610920968
+EP: 0.24644623370871319
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.059613531592547626
+EPMA: 5.961353159254762
+EP: 0.24415882452319357
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.05735080783005863
+EPMA: 5.735080783005864
+EP: 0.23948028693414125
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.0481108570328013
+EPMA: 4.8110857032801295
+EP: 0.21934187250226825
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.04847547699656084
+EPMA: 4.847547699656084
+EP: 0.2201714718045025
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.048590333362858104
+EPMA: 4.859033336285811
+EP: 0.22043215138191186
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.04563354380746677
+EPMA: 4.563354380746677
+EP: 0.21362009223728645
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.0464550207237911
+EPMA: 4.64550207237911
+EP: 0.21553426809626144
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.04738893539154529
+EPMA: 4.738893539154529
+EP: 0.21768999837278993
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.04670812337812633
+EPMA: 4.670812337812633
+EP: 0.21612062228793977
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.048747205490769975
+EPMA: 4.874720549076997
+EP: 0.2207876932502579
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.04793259534878385
+EPMA: 4.793259534878385
+EP: 0.21893513959340527
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.04566315653122677
+EPMA: 4.566315653122676
+EP: 0.21368939265023607
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.05531199243898007
+EPMA: 5.5311992438980075
+EP: 0.23518501746280537
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.05281777018695875
+EPMA: 5.281777018695874
+EP: 0.22982117001477204
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.05187035878812542
+EPMA: 5.187035878812542
+EP: 0.22775065046696447
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.05247996849126601
+EPMA: 5.247996849126602
+EP: 0.2290850682416163
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.05291139529650725
+EPMA: 5.291139529650725
+EP: 0.2300247710497877
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.050885727610042224
+EPMA: 5.088572761004222
+EP: 0.225578650607814
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.053176359353731245
+EPMA: 5.317635935373124
+EP: 0.23059999859872343
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.05357669210318868
+EPMA: 5.357669210318868
+EP: 0.23146639519202064
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.051190126739857095
+EPMA: 5.11901267398571
+EP: 0.22625235189906223
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.052258719914315126
+EPMA: 5.2258719914315135
+EP: 0.22860166209875887
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.033748858940362315
+EPMA: 3.3748858940362316
+EP: 0.1837086251115127
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.03452659757020374
+EPMA: 3.452659757020374
+EP: 0.1858133406680041
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.03423700134732999
+EPMA: 3.423700134732999
+EP: 0.18503243323085278
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.03555312712741758
+EPMA: 3.555312712741758
+EP: 0.18855536886394295
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.034296642149446895
+EPMA: 3.429664214944689
+EP: 0.18519352620825302
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.03519457076415316
+EPMA: 3.5194570764153155
+EP: 0.18760216087282458
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.03567176542445238
+EPMA: 3.567176542445238
+EP: 0.18886970488792632
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.03580142080472339
+EPMA: 3.5801420804723394
+EP: 0.1892126338401413
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.03582017947334645
+EPMA: 3.5820179473346454
+EP: 0.18926219768708819
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.03439166565960302
+EPMA: 3.4391665659603015
+EP: 0.1854499006729392
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.02695653058542791
+EPMA: 2.6956530585427907
+EP: 0.16418444075316002
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.027741278374412433
+EPMA: 2.774127837441243
+EP: 0.16655713246334555
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.02740798387671157
+EPMA: 2.740798387671157
+EP: 0.16555356799752632
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.02759506730916087
+EPMA: 2.7595067309160872
+EP: 0.1661176309401289
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.027558662287999185
+EPMA: 2.7558662287999183
+EP: 0.166008018746081
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.02774756937421183
+EPMA: 2.7747569374211833
+EP: 0.1665760168037759
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.028466178598948188
+EPMA: 2.8466178598948186
+EP: 0.1687192300804748
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.028313121890467145
+EPMA: 2.8313121890467143
+EP: 0.16826503466397036
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.02720439905834929
+EPMA: 2.7204399058349296
+EP: 0.16493756109009644
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.028265375397561337
+EPMA: 2.8265375397561336
+EP: 0.1681230959670959
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.9983202803376767
+EPMA: 99.83202803376767
+EP: 0.9991597871900554
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.9995496836254798
+EPMA: 99.95496836254797
+EP: 0.9997748164589263
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.9981091694685905
+EPMA: 99.81091694685905
+EP: 0.9990541374062721
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.9968736728636904
+EPMA: 99.68736728636904
+EP: 0.9984356127781553
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.9998738674229461
+EPMA: 99.98738674229463
+EP: 0.9999369317226693
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.05688154007844721
+EPMA: 5.688154007844721
+EP: 0.23849851169021413
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.9999183832445031
+EPMA: 99.9918383244503
+EP: 0.9999591907895558
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.9969725068980124
+EPMA: 99.69725068980125
+EP: 0.9984851059970862
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.9985415388858379
+EPMA: 99.85415388858378
+EP: 0.9992705033602453
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.9832222050129197
+EPMA: 98.32222050129197
+EP: 0.9915756173953248
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.9995294567868604
+EPMA: 99.95294567868604
+EP: 0.9997647007105525
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.9997756120187713
+EPMA: 99.97756120187712
+EP: 0.9998877997149337
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.9992513203838223
+EPMA: 99.92513203838222
+EP: 0.9996255901005248
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.9983778442626442
+EPMA: 99.83778442626442
+EP: 0.9991885929406141
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.9954036044181692
+EPMA: 99.54036044181692
+EP: 0.9976991552658393
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.9939593129422608
+EPMA: 99.39593129422607
+EP: 0.9969750814048769
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.9986763076542245
+EPMA: 99.86763076542246
+EP: 0.9993379346618563
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.9964501467379792
+EPMA: 99.64501467379792
+EP: 0.9982234953846655
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.9989369941664653
+EPMA: 99.89369941664653
+EP: 0.9994683557604339
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.9988992597959033
+EPMA: 99.88992597959034
+EP: 0.9994494783609141
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.1372031044779707
+EPMA: 13.720310447797072
+EP: 0.37040937417669484
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.10749143646292071
+EPMA: 10.74914364629207
+EP: 0.3278588666833958
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.9986986988826292
+EPMA: 99.86986988826291
+EP: 0.9993491376304026
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.023207742259737735
+EPMA: 2.3207742259737736
+EP: 0.1523408752099637
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.025773961638061987
+EPMA: 2.577396163806198
+EP: 0.1605427097007584
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.9984448052175313
+EPMA: 99.84448052175314
+EP: 0.9992221000445953
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.9990652971169002
+EPMA: 99.90652971169003
+EP: 0.9995325392986965
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.02176524996001154
+EPMA: 2.176524996001154
+EP: 0.14753050518456018
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.02291609939527722
+EPMA: 2.291609939527722
+EP: 0.15138064405754528
+
+3
+Taxa de aprendizagem: 0.01
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.9954375381878642
+EPMA: 99.54375381878641
+EP: 0.997716161133949
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.3393522391906386
+EPMA: 33.935223919063866
+EP: 0.5825394743625866
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.32321489925541186
+EPMA: 32.32148992554119
+EP: 0.5685199198404677
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.339184060146821
+EPMA: 33.918406014682105
+EP: 0.5823951065615344
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.3113264119215511
+EPMA: 31.132641192155106
+EP: 0.557966317909559
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.3382526523182214
+EPMA: 33.825265231822144
+EP: 0.5815949211592389
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.3324137046532469
+EPMA: 33.24137046532469
+EP: 0.5765532973223264
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.324132560820581
+EPMA: 32.413256082058105
+EP: 0.5693264097339776
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.3505559277383996
+EPMA: 35.05559277383996
+EP: 0.5920776365802035
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.31572192888632883
+EPMA: 31.57219288863288
+EP: 0.5618913853106566
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.34672879774014687
+EPMA: 34.67287977401469
+EP: 0.5888368175820419
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.24047695239234068
+EPMA: 24.047695239234066
+EP: 0.4903844944452676
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.24035031821733893
+EPMA: 24.03503182173389
+EP: 0.4902553602127558
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.2340217300098765
+EPMA: 23.402173000987652
+EP: 0.48375792500989223
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.24660693108665724
+EPMA: 24.660693108665726
+EP: 0.4965953393726699
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.23649846678885916
+EPMA: 23.64984667888592
+EP: 0.4863110802653577
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.23441272464792237
+EPMA: 23.441272464792235
+EP: 0.48416187855708176
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.21974383292020389
+EPMA: 21.974383292020388
+EP: 0.46876842141957886
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.23495909368762963
+EPMA: 23.495909368762963
+EP: 0.48472579226571966
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.24235329906084555
+EPMA: 24.235329906084555
+EP: 0.4922939153197463
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.22319340244967373
+EPMA: 22.319340244967375
+EP: 0.4724334899746987
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.188991139889907
+EPMA: 18.8991139889907
+EP: 0.43473111217154337
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.19300651842482594
+EPMA: 19.300651842482594
+EP: 0.439325071473079
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.19095410002845958
+EPMA: 19.09541000284596
+EP: 0.43698295164509515
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.18149211489052502
+EPMA: 18.1492114890525
+EP: 0.4260189137708853
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.18599943165379432
+EPMA: 18.59994316537943
+EP: 0.43127651414584856
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.18071109905712557
+EPMA: 18.071109905712557
+EP: 0.42510128094034905
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.19112253740976928
+EPMA: 19.11225374097693
+EP: 0.4371756367980371
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.18138901759839468
+EPMA: 18.13890175983947
+EP: 0.42589789574309317
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.18868803062135575
+EPMA: 18.868803062135573
+EP: 0.43438235532921426
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+1
+1
+
+EMA: 0.17848555338085875
+EPMA: 17.848555338085877
+EP: 0.4224755062496035
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.32336597268525197
+EPMA: 32.336597268525196
+EP: 0.5686527698738941
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.7866626685476008
+EPMA: 78.66626685476008
+EP: 0.8869400591627378
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.3378832384157515
+EPMA: 33.78832384157515
+EP: 0.5812772474609268
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.33556782648681227
+EPMA: 33.55678264868123
+EP: 0.5792821648271352
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.822745261047449
+EPMA: 82.27452610474491
+EP: 0.9070530640747811
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.5864373021916004
+EPMA: 58.64373021916004
+EP: 0.7657919444546282
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.3150645687007417
+EPMA: 31.506456870074167
+EP: 0.5613061274391556
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.2768150540644405
+EPMA: 27.681505406444053
+EP: 0.5261321640656846
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.8183922344723914
+EPMA: 81.83922344723914
+EP: 0.9046503382370403
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.5062620640517137
+EPMA: 50.626206405171374
+EP: 0.7115209512387627
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.17293135738708065
+EPMA: 17.293135738708067
+EP: 0.4158501621823426
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.16347664689196958
+EPMA: 16.34766468919696
+EP: 0.40432245410312
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.21367738120221086
+EPMA: 21.367738120221087
+EP: 0.4622525080539973
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.15136999196698003
+EPMA: 15.136999196698005
+EP: 0.38906296658379097
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.1523533493505053
+EPMA: 15.23533493505053
+EP: 0.390324671716387
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.1559831574231857
+EPMA: 15.598315742318569
+EP: 0.39494703116137697
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.16233110724790353
+EPMA: 16.233110724790354
+EP: 0.4029033472781078
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.16043333573691237
+EPMA: 16.04333357369124
+EP: 0.4005413034094142
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.1674535667073919
+EPMA: 16.745356670739188
+EP: 0.40921090736610616
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.17236861059793718
+EPMA: 17.236861059793718
+EP: 0.4151729887624401
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.11746252268043834
+EPMA: 11.746252268043834
+EP: 0.34272805937133066
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.12718638812149452
+EPMA: 12.718638812149454
+EP: 0.35663200658591276
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.12189377442558622
+EPMA: 12.189377442558621
+EP: 0.3491328893495802
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.13111887013720405
+EPMA: 13.111887013720404
+EP: 0.36210339702521993
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.13511904810657216
+EPMA: 13.511904810657215
+EP: 0.36758542967121555
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.10906646323924914
+EPMA: 10.906646323924914
+EP: 0.3302521207187762
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.12161826310315071
+EPMA: 12.161826310315071
+EP: 0.3487381010201649
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.11316971595096602
+EPMA: 11.316971595096602
+EP: 0.33640706881836774
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.12019507440965414
+EPMA: 12.019507440965414
+EP: 0.3466916128343086
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+10
+1
+
+EMA: 0.12404676595247999
+EPMA: 12.404676595247999
+EP: 0.3522027341638335
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.999906896151486
+EPMA: 99.99068961514861
+EP: 0.9999534469921517
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.999402308273643
+EPMA: 99.94023082736429
+EP: 0.9997011094690468
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.9992532881333618
+EPMA: 99.92532881333618
+EP: 0.9996265743433204
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.9985183046914118
+EPMA: 99.85183046914118
+EP: 0.9992588777145849
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.9997985861269724
+EPMA: 99.97985861269724
+EP: 0.9998992879920319
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.9978326845269518
+EPMA: 99.78326845269518
+EP: 0.9989157544692905
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.9996764994140788
+EPMA: 99.96764994140788
+EP: 0.9998382366233444
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.9995561238675505
+EPMA: 99.95561238675506
+EP: 0.9997780373000552
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.9988879100035665
+EPMA: 99.88879100035665
+EP: 0.9994438003227427
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 5000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.9996798362630616
+EPMA: 99.96798362630615
+EP: 0.9998399053163769
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.9967841507053373
+EPMA: 99.67841507053373
+EP: 0.9983907805590642
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.998596089750197
+EPMA: 99.85960897501968
+EP: 0.9992977983315069
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.9984972066301552
+EPMA: 99.84972066301552
+EP: 0.999248320804271
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.999678529698971
+EPMA: 99.9678529698971
+EP: 0.9998392519295144
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.9993809935198906
+EPMA: 99.93809935198905
+EP: 0.9996904488489877
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.9997757874138582
+EPMA: 99.97757874138583
+EP: 0.999887887422314
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.9995701992725886
+EPMA: 99.95701992725887
+EP: 0.9997850765402475
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.9994909304829429
+EPMA: 99.94909304829427
+EP: 0.9997454328392518
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.9991939482139672
+EPMA: 99.91939482139672
+EP: 0.9995968928593002
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 10000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.9998854905739338
+EPMA: 99.98854905739339
+EP: 0.999942743647822
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.9994445856298786
+EPMA: 99.94445856298785
+EP: 0.9997222542435867
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.99909106740885
+EPMA: 99.90910674088498
+EP: 0.9995454303876588
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.9991173596978304
+EPMA: 99.91173596978304
+EP: 0.9995585824241771
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.9998061344395802
+EPMA: 99.98061344395802
+EP: 0.9999030625213527
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.983543960548783
+EPMA: 98.35439605487831
+EP: 0.9917378487023589
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.9946609511216458
+EPMA: 99.46609511216458
+EP: 0.9973269028366004
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.9993283938577774
+EPMA: 99.93283938577774
+EP: 0.9996641405280963
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.9995991867059292
+EPMA: 99.95991867059291
+EP: 0.999799573267527
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.9999053995779517
+EPMA: 99.99053995779516
+EP: 0.9999526986702679
+
+3
+Taxa de aprendizagem: 0.001
+Quantidade Iteracao: 15000
+Quantos neuronios em cada camada: 
+1
+30
+1
+
+EMA: 0.9988083437632169
+EPMA: 99.8808343763217
+EP: 0.9994039942701934
+

@@ -1,0 +1,24 @@
+titulo = "temperatura_cananeia.txt"
+arq = open("entrada_nao_normalizada_"+titulo)
+
+res = []
+maior =0.0
+
+for l in arq:
+	valor = float(l.split()[0])
+
+	if (valor>maior):
+		maior = valor
+
+	if (valor != 0):
+		res.append(valor)
+
+res = [i/maior for i in res]
+
+arq.close()
+
+arq = open("entrada_normalizada_"+titulo, "w")
+for i in res:
+	arq.write(str(i)+"\n")
+arq.close()
+
